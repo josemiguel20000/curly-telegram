@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/josemiguel20000/ubiquitous-waffle/static/css/main.2a8891c1.css",
+    "main.js": "/josemiguel20000/ubiquitous-waffle/static/js/main.15663757.js",
+    "static/js/787.a2cb61a6.chunk.js": "/josemiguel20000/ubiquitous-waffle/static/js/787.a2cb61a6.chunk.js",
+    "static/media/me.jpg": "/josemiguel20000/ubiquitous-waffle/static/media/me.cc859a68274c374090a6.jpg",
+    "index.html": "/josemiguel20000/ubiquitous-waffle/index.html",
+    "main.2a8891c1.css.map": "/josemiguel20000/ubiquitous-waffle/static/css/main.2a8891c1.css.map",
+    "main.15663757.js.map": "/josemiguel20000/ubiquitous-waffle/static/js/main.15663757.js.map",
+    "787.a2cb61a6.chunk.js.map": "/josemiguel20000/ubiquitous-waffle/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a8891c1.css",
+    "static/js/main.15663757.js"
+  ]
+}
